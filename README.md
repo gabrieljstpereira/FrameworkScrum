@@ -1,2 +1,4 @@
 # FrameworkScrum
 Entrega do Framework Scrum preenchido
+link do miro 
+https://miro.com/welcomeonboard/dHF5eHVCTjJmR0dsYlZuQUlrVzRUY0dNNEl6UTVXenhQd2ZDMnF2MzNjWUZob3pMVFg0dm1Eb2M1Wkp3ajZ2MXwzMDc0NDU3MzYzNTI3Nzg1NjQ2fDI=?share_link_id=773369573623
